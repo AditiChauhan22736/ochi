@@ -38,7 +38,7 @@ function Featured() {
                      ))}
                   </h1>
                   <div className="card rounded-xl w-full h-full overflow-hidden">
-                     <img className="w-full h-full bg-cover" src="fade image.png" alt="" />
+                     <img className="w-full h-full bg-cover" src="https://ochi.design/wp-content/uploads/2023/10/Fyde_Illustration_Crypto_2-1326x1101.png" alt="" />
                   </div>
                   <div className="space-x-4">
                      <button className="px-5 py-1 mt-5 border-[2px] border-zinc-500 text-[1.1vw] uppercase rounded-full">audit</button>
@@ -67,7 +67,7 @@ function Featured() {
                      ))}
                   </h1>
                   <div className="card rounded-xl w-full h-full bg-cover overflow-hidden">
-                     <img className="w-full h-full bg-cover" src="Vise_front2-1326x1101.jpg" alt="" />
+                     <img className="w-full h-full bg-cover" src="https://ochi.design/wp-content/uploads/2022/09/Vise_front2-1326x1101.jpg" alt="" />
                   </div>
                   <div className="space-x-4">
                      <button className="px-5 py-1 mt-5 border-[2px] border-zinc-500 text-[1.1vw] uppercase rounded-full">agency</button>
